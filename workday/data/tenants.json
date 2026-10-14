@@ -1,0 +1,3058 @@
+[
+ {
+  "tenant": "3m",
+  "name": "IND 3M Global Tech Center PVT LTD",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Search",
+    "job_count": 738
+   }
+  ],
+  "disallowed_sites": [
+   "private"
+  ]
+ },
+ {
+  "tenant": "aa",
+  "name": "The New Zealand Automobile Association (Incorporated)",
+  "wd": "wd105",
+  "sites": [
+   {
+    "id": "AA",
+    "job_count": 11
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "abbott",
+  "name": "1175 Abt Labs SAfrica (Proprietary) Ltd",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "abbottcareers",
+    "job_count": 2000
+   },
+   {
+    "id": "eQuest",
+    "job_count": 0
+   },
+   {
+    "id": "Agency",
+    "job_count": 8
+   },
+   {
+    "id": "abbottcareers2",
+    "job_count": 1125
+   }
+  ],
+  "disallowed_sites": [
+   "nonpublic"
+  ]
+ },
+ {
+  "tenant": "accenture",
+  "name": "1301 ACCENTURE SC SRL Company",
+  "wd": "wd103",
+  "sites": [
+   {
+    "id": "AccentureCareers",
+    "job_count": 2000
+   },
+   {
+    "id": "AccentureLeadershipCareers",
+    "job_count": 0
+   },
+   {
+    "id": "AvanadeCareers",
+    "job_count": 672
+   },
+   {
+    "id": "AvanadeLeadershipCareers",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "adobe",
+  "name": "NDIN-Adobe Systems India Private Limited",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "external_experienced",
+    "job_count": 332
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "aig",
+  "name": "AIG Insurance Hong Kong Limited",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "aig",
+    "job_count": 459
+   },
+   {
+    "id": "early_careers",
+    "job_count": 44
+   },
+   {
+    "id": "japan",
+    "job_count": 24
+   }
+  ],
+  "disallowed_sites": [
+   "PrivateJobPostings"
+  ]
+ },
+ {
+  "tenant": "allstate",
+  "name": "Allstate Insurance Co.",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Agent",
+    "job_count": 420
+   },
+   {
+    "id": "allstate_careers",
+    "job_count": 434
+   }
+  ],
+  "disallowed_sites": [
+   "sourcing_event"
+  ]
+ },
+ {
+  "tenant": "amat",
+  "name": "0028 Applied Materials South East Asia Pte Ltd (SGP)",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 2000
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "amgen",
+  "name": "1147 Amgen Biopharmaceuticals Malaysia Sdn Bhd",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Careers",
+    "job_count": 1712
+   },
+   {
+    "id": "agency",
+    "job_count": 4
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "analogdevices",
+  "name": "1330 Analog Devices K.K.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 843
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "astrazeneca",
+  "name": "UK10 AstraZeneca UK Ltd Company",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Emerging-Talent",
+    "job_count": 3
+   },
+   {
+    "id": "Careers",
+    "job_count": 1098
+   },
+   {
+    "id": "broadbean_external",
+    "job_count": 206
+   },
+   {
+    "id": "Alexion",
+    "job_count": 100
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "att",
+  "name": "AT&T Services, Inc.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "ATTCollege",
+    "job_count": 8
+   },
+   {
+    "id": "ATTGeneral",
+    "job_count": 1165
+   },
+   {
+    "id": "Cricket",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "ATTCollegeSpecialInvite",
+   "ATTMilitaryFellowSpecialInvite",
+   "ATTSpecialInvite"
+  ]
+ },
+ {
+  "tenant": "autodesk",
+  "name": "Autodesk India",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Ext",
+    "job_count": 397
+   },
+   {
+    "id": "uni",
+    "job_count": 42
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "bakerhughes",
+  "name": "4260 Baker Hughes EHO Ltd., Kenya Branch",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "BakerHughes",
+    "job_count": 708
+   }
+  ],
+  "disallowed_sites": [
+   "BHSensitiveSite"
+  ]
+ },
+ {
+  "tenant": "barclays",
+  "name": "1203 Barclays Global Serv. Cent",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "External_Career_Site_Barclays",
+    "job_count": 739
+   }
+  ],
+  "disallowed_sites": [
+   "Private"
+  ]
+ },
+ {
+  "tenant": "baxter",
+  "name": "3080 Baxter Healthcare SRL Romania ROU",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "baxter",
+    "job_count": 489
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "blackrock",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "BlackRock_Professional",
+    "job_count": 305
+   }
+  ],
+  "disallowed_sites": [
+   "BlackRock_AIG",
+   "BlackRock_Early_Careers_Program"
+  ]
+ },
+ {
+  "tenant": "bmo",
+  "name": "Bank of Montreal",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Campus",
+    "job_count": 25
+   },
+   {
+    "id": "External",
+    "job_count": 901
+   }
+  ],
+  "disallowed_sites": [
+   "Privileged"
+  ]
+ },
+ {
+  "tenant": "boeing",
+  "name": "The Boeing Company",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "EXTERNAL_CAREERS",
+    "job_count": 756
+   },
+   {
+    "id": "AISES",
+    "job_count": 1
+   },
+   {
+    "id": "AAEOY",
+    "job_count": 0
+   },
+   {
+    "id": "ALPFA",
+    "job_count": 0
+   },
+   {
+    "id": "BEYA",
+    "job_count": 0
+   },
+   {
+    "id": "SHPE",
+    "job_count": 0
+   },
+   {
+    "id": "EXTERNAL_RECALL",
+    "job_count": 1
+   },
+   {
+    "id": "GRACE",
+    "job_count": 0
+   },
+   {
+    "id": "GMIS",
+    "job_count": 0
+   },
+   {
+    "id": "INTERN",
+    "job_count": 27
+   },
+   {
+    "id": "NABA",
+    "job_count": 0
+   },
+   {
+    "id": "ASCEND",
+    "job_count": 0
+   },
+   {
+    "id": "SASE",
+    "job_count": 0
+   },
+   {
+    "id": "SWE",
+    "job_count": 1
+   },
+   {
+    "id": "NSBE",
+    "job_count": 0
+   },
+   {
+    "id": "USBLN",
+    "job_count": 0
+   },
+   {
+    "id": "WAI",
+    "job_count": 2
+   },
+   {
+    "id": "WOCT",
+    "job_count": 0
+   },
+   {
+    "id": "external_subsidiary",
+    "job_count": 683
+   },
+   {
+    "id": "external_ukcontingentworker",
+    "job_count": 34
+   },
+   {
+    "id": "CLEAR",
+    "job_count": 0
+   },
+   {
+    "id": "MFG",
+    "job_count": 0
+   },
+   {
+    "id": "HIRE",
+    "job_count": 0
+   },
+   {
+    "id": "ENG",
+    "job_count": 8
+   },
+   {
+    "id": "TECH",
+    "job_count": 6
+   },
+   {
+    "id": "DIV",
+    "job_count": 0
+   },
+   {
+    "id": "DVST",
+    "job_count": 0
+   },
+   {
+    "id": "DA",
+    "job_count": 0
+   },
+   {
+    "id": "LAT",
+    "job_count": 0
+   },
+   {
+    "id": "NAI",
+    "job_count": 22
+   },
+   {
+    "id": "VET",
+    "job_count": 0
+   },
+   {
+    "id": "INCL",
+    "job_count": 4
+   },
+   {
+    "id": "PRIDE",
+    "job_count": 0
+   },
+   {
+    "id": "WMB",
+    "job_count": 5
+   },
+   {
+    "id": "TAP1",
+    "job_count": 6
+   },
+   {
+    "id": "TAP2",
+    "job_count": 6
+   },
+   {
+    "id": "TAP3",
+    "job_count": 34
+   },
+   {
+    "id": "TAP4",
+    "job_count": 0
+   },
+   {
+    "id": "TAP5",
+    "job_count": 0
+   },
+   {
+    "id": "TAP_EVENT",
+    "job_count": 5
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "broadcom",
+  "name": "4313 VMware Software India Private Limited",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "External_Career",
+    "job_count": 374
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "brown",
+  "name": "Brown University",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "staff-careers-brown",
+    "job_count": 113
+   },
+   {
+    "id": "brown-staff-waiver",
+    "job_count": 2
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "cadence",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "External_Careers",
+    "job_count": 649
+   },
+   {
+    "id": "Univ_Careers",
+    "job_count": 16
+   },
+   {
+    "id": "women-in-tech-scholarship",
+    "job_count": 1
+   },
+   {
+    "id": "OpenEye_Careers",
+    "job_count": 2
+   },
+   {
+    "id": "University_Talent",
+    "job_count": 3
+   },
+   {
+    "id": "University_Talent_NCG",
+    "job_count": 2
+   },
+   {
+    "id": "University_Talent_Intern",
+    "job_count": 2
+   },
+   {
+    "id": "University_CST",
+    "job_count": 7
+   }
+  ],
+  "disallowed_sites": [
+   "addl_jobs"
+  ]
+ },
+ {
+  "tenant": "cae",
+  "name": "72 CAE Australia",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "CaeCareer2",
+    "job_count": 1
+   },
+   {
+    "id": "career",
+    "job_count": 394
+   },
+   {
+    "id": "cae",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "capitalone",
+  "name": null,
+  "wd": "wd12",
+  "sites": [
+   {
+    "id": "Capital_One",
+    "job_count": 1960
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "carrier",
+  "name": "MYS1 Carrier (Malaysia) Sdn Bhd",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "jobs",
+    "job_count": 1058
+   },
+   {
+    "id": "Union_Workers_Career_Page",
+    "job_count": 20
+   },
+   {
+    "id": "kgs_jobs",
+    "job_count": 34
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "cba",
+  "name": "CBA Services Private Limited",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "CommBank_Careers",
+    "job_count": 188
+   },
+   {
+    "id": "Bankwest_Careers",
+    "job_count": 4
+   },
+   {
+    "id": "Private_Ad",
+    "job_count": 24
+   },
+   {
+    "id": "x15_Careers",
+    "job_count": 4
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "ccf",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "ClevelandClinicCareers",
+    "job_count": 2286
+   },
+   {
+    "id": "ClevelandClinicCareersUK",
+    "job_count": 29
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "chevron",
+  "name": "7120 Chevron Global Technology and Services Private Limited",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "jobs",
+    "job_count": 157
+   },
+   {
+    "id": "University",
+    "job_count": 34
+   }
+  ],
+  "disallowed_sites": [
+   "ExternalCareerSite_Private"
+  ]
+ },
+ {
+  "tenant": "chipotle",
+  "name": "04 Chipotle Services, LLC",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "ChipotleCareers",
+    "job_count": 212
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "cibc",
+  "name": "Canadian Imperial Bank of Commerce (Canada)",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "search",
+    "job_count": 499
+   },
+   {
+    "id": "campus",
+    "job_count": 39
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "cigna",
+  "name": "IN1 Cigna Health Solutions India Private Limited",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "cignacareers",
+    "job_count": 531
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "cisco",
+  "name": "020 Cisco Systems, Inc.",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Cisco_Careers",
+    "job_count": 1378
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "conocophillips",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "ExternalCWAU",
+    "job_count": 0
+   },
+   {
+    "id": "eQuest",
+    "job_count": 4
+   }
+  ],
+  "disallowed_sites": [
+   "External",
+   "ExternalCWN",
+   "ExternalCWUK"
+  ]
+ },
+ {
+  "tenant": "cornell",
+  "name": "Cornell Univ (NYS Colleges & Exper Sta)",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "CCECareerPage",
+    "job_count": 55
+   }
+  ],
+  "disallowed_sites": [
+   "CornellCareerPage",
+   "CornellPositions"
+  ]
+ },
+ {
+  "tenant": "crowdstrike",
+  "name": "CrowdStrike, Inc.",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "crowdstrikecareers",
+    "job_count": 347
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "cvshealth",
+  "name": "4062 Aetna Resources, LLC",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "CVS_Health_Careers",
+    "job_count": 19787
+   },
+   {
+    "id": "Private_Postings_Intern_Conversion_ONLY",
+    "job_count": 17
+   },
+   {
+    "id": "Private_Postings_Mergers_and_Acquisitions_ONLY",
+    "job_count": 4
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "danaher",
+  "name": "3661 DHR Holding India Pvt. Ltd.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "DanaherJobs",
+    "job_count": 1447
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "diageo",
+  "name": "Diageo Business Services India Pvt. Ltd.",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Diageo_Careers",
+    "job_count": 265
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "disney",
+  "name": "1976 Walt Disney Attractions Technology LLC",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "disneycareer",
+    "job_count": 495
+   }
+  ],
+  "disallowed_sites": [
+   "disneycareerdc"
+  ]
+ },
+ {
+  "tenant": "dollartree",
+  "name": "Dollar Tree Stores INC",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "dollartreeus",
+    "job_count": 25012
+   },
+   {
+    "id": "dollartreeca",
+    "job_count": 448
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "dow",
+  "name": "DOW SILICONES (SHANGHAI) CO., LTD.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "ExternalCareers",
+    "job_count": 201
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "dupont",
+  "name": "8974 DuPont Specialty Products USA, LLC",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Jobs",
+    "job_count": 194
+   },
+   {
+    "id": "Jobs_Swiss",
+    "job_count": 5
+   },
+   {
+    "id": "Confidential",
+    "job_count": 3
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "edwards",
+  "name": "Edwards Lifesciences Asia Pacific Sdn Bhd",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "EdwardsCareers",
+    "job_count": 390
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "elevancehealth",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Legato_Ireland",
+    "job_count": 0
+   },
+   {
+    "id": "ANT",
+    "job_count": 234
+   },
+   {
+    "id": "Legato_Israel",
+    "job_count": 0
+   },
+   {
+    "id": "carelonglobal_in",
+    "job_count": 11
+   },
+   {
+    "id": "carelonglobal_ph",
+    "job_count": 22
+   },
+   {
+    "id": "IRL",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "ELV-ET"
+  ]
+ },
+ {
+  "tenant": "emerson",
+  "name": "Emerson College",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Emerson_College_Staff",
+    "job_count": 34
+   },
+   {
+    "id": "Emerson_College_Affiliated_Faculty",
+    "job_count": 11
+   },
+   {
+    "id": "Emerson_College_FT_Faculty",
+    "job_count": 3
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "equinix",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "GDH_Consulting",
+    "job_count": 0
+   },
+   {
+    "id": "JAC_Recruitment",
+    "job_count": 0
+   },
+   {
+    "id": "Career_Design_Center",
+    "job_count": 0
+   },
+   {
+    "id": "Michael_Page_International",
+    "job_count": 0
+   },
+   {
+    "id": "Recruit_Career",
+    "job_count": 0
+   },
+   {
+    "id": "BSI_People",
+    "job_count": 0
+   },
+   {
+    "id": "Golden_Searches_Information_Consultant",
+    "job_count": 0
+   },
+   {
+    "id": "Execuforce",
+    "job_count": 0
+   },
+   {
+    "id": "Pro-Unlimited",
+    "job_count": 0
+   },
+   {
+    "id": "Annapurna_HR",
+    "job_count": 0
+   },
+   {
+    "id": "CDS_Recruitment",
+    "job_count": 0
+   },
+   {
+    "id": "Clifford_Baines",
+    "job_count": 0
+   },
+   {
+    "id": "Euro_London_Appointment",
+    "job_count": 0
+   },
+   {
+    "id": "IQ_Telecom",
+    "job_count": 0
+   },
+   {
+    "id": "PMA_Recruitment",
+    "job_count": 0
+   },
+   {
+    "id": "PRS_Recruitment_Services",
+    "job_count": 0
+   },
+   {
+    "id": "Recruit_Plus",
+    "job_count": 0
+   },
+   {
+    "id": "Careertrotter",
+    "job_count": 0
+   },
+   {
+    "id": "Page_Personnel",
+    "job_count": 0
+   },
+   {
+    "id": "Align_Technical_Resources",
+    "job_count": 0
+   },
+   {
+    "id": "Magellan_Professional_Solutions",
+    "job_count": 0
+   },
+   {
+    "id": "Datacenterpeople_Ltd",
+    "job_count": 0
+   },
+   {
+    "id": "Recruit_Agent",
+    "job_count": 0
+   },
+   {
+    "id": "Intelligence",
+    "job_count": 0
+   },
+   {
+    "id": "Skill_House",
+    "job_count": 0
+   },
+   {
+    "id": "Robert_Walters_Pty_Ltd",
+    "job_count": 0
+   },
+   {
+    "id": "Robert_Half_International_Inc",
+    "job_count": 0
+   },
+   {
+    "id": "Bradley-Morris_LLC_dba_Bradley-Morris_Inc",
+    "job_count": 0
+   },
+   {
+    "id": "HaysSpecialistRecruitmentJapan",
+    "job_count": 0
+   },
+   {
+    "id": "PRECEPT",
+    "job_count": 0
+   },
+   {
+    "id": "ManpowerGroup",
+    "job_count": 0
+   },
+   {
+    "id": "DaijobGlobalRecruiting",
+    "job_count": 0
+   },
+   {
+    "id": "MorganMcKinley",
+    "job_count": 0
+   },
+   {
+    "id": "Adecco",
+    "job_count": 0
+   },
+   {
+    "id": "Boyd_Moore_Executive_Search",
+    "job_count": 0
+   },
+   {
+    "id": "Skillhouse_Staffing_Solutions_KK",
+    "job_count": 0
+   },
+   {
+    "id": "en_japan_inc",
+    "job_count": 0
+   },
+   {
+    "id": "Mynavi_Corporation",
+    "job_count": 0
+   },
+   {
+    "id": "enworld_Co_Ltd",
+    "job_count": 0
+   },
+   {
+    "id": "Heidrick_Struggles",
+    "job_count": 0
+   },
+   {
+    "id": "Michael_Page_International_Japan_KK",
+    "job_count": 0
+   },
+   {
+    "id": "Brix_Projects",
+    "job_count": 0
+   },
+   {
+    "id": "Adecco_Personaldienstleistungen_GmbH",
+    "job_count": 0
+   },
+   {
+    "id": "Page_Personnel_Deutschland_GmbH",
+    "job_count": 0
+   },
+   {
+    "id": "Soar_Consulting_Inc",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "External",
+   "Applications_By_Invitations",
+   "Exclusive_Applications_by_Invite"
+  ]
+ },
+ {
+  "tenant": "fedex",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "FSC_Canada_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FTN_External_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FXE-Canada_External_Career_Site",
+    "job_count": 37
+   },
+   {
+    "id": "FXE-LAC_External_Career_Site",
+    "job_count": 106
+   },
+   {
+    "id": "FXE-US_External_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FXF_External_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FXS-FXC_External_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FXC_External_Targeted_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FXS_External_Targeted_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FTN_APAC_External",
+    "job_count": 18
+   },
+   {
+    "id": "FXE_APAC_External",
+    "job_count": 98
+   },
+   {
+    "id": "FXE-US_Pilot_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FXE-EU_External",
+    "job_count": 968
+   },
+   {
+    "id": "FXE-MEISA-External",
+    "job_count": 62
+   },
+   {
+    "id": "FTN_EMEIA_External",
+    "job_count": 5
+   },
+   {
+    "id": "FXS_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FXC_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FXE-APAC_Cross_OpCo",
+    "job_count": 7
+   },
+   {
+    "id": "FTN-APAC_Cross_OpCo",
+    "job_count": 14
+   },
+   {
+    "id": "FXE-MEISA_Cross_OpCo",
+    "job_count": 2
+   },
+   {
+    "id": "FXE-EU_Cross_OpCo",
+    "job_count": 17
+   },
+   {
+    "id": "FXE-Canada_Cross_OpCo",
+    "job_count": 1
+   },
+   {
+    "id": "FCC_External",
+    "job_count": 2
+   },
+   {
+    "id": "FFC_External",
+    "job_count": 2
+   },
+   {
+    "id": "FXF-MEX-External",
+    "job_count": 1
+   },
+   {
+    "id": "FXO_External",
+    "job_count": 0
+   },
+   {
+    "id": "FXE-LAC_Cross_OpCo",
+    "job_count": 2
+   },
+   {
+    "id": "FTN-EMEIA_Cross_OpCo",
+    "job_count": 3
+   },
+   {
+    "id": "FTN_CAN_External",
+    "job_count": 21
+   },
+   {
+    "id": "FCC_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FXO_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FSC_Canada_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FTN_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FTN_CAN_Cross_OpCo",
+    "job_count": 24
+   },
+   {
+    "id": "FDW_External_Career_Site",
+    "job_count": 0
+   },
+   {
+    "id": "FDW_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FFC_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FXF-MEX_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FXF-Inc_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FTN_LAC_External",
+    "job_count": 0
+   },
+   {
+    "id": "FTN_LAC_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FDW-US_Targeted_Posting_Portal",
+    "job_count": 0
+   },
+   {
+    "id": "FDW_EU_External_Career_Site",
+    "job_count": 1
+   },
+   {
+    "id": "FDW_EU_Cross_OpCo",
+    "job_count": 0
+   },
+   {
+    "id": "FDW_OpCo_Career_Site",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "FXE-US_Targeted_Posting_Portal"
+  ]
+ },
+ {
+  "tenant": "fis",
+  "name": "FIS Investor Services India Private Limited",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "SearchJobs",
+    "job_count": 549
+   },
+   {
+    "id": "AgencyCareerSite",
+    "job_count": 1
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "fiserv",
+  "name": "Fiserv Solutions LLC",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "EXT",
+    "job_count": 311
+   },
+   {
+    "id": "NZ",
+    "job_count": 0
+   },
+   {
+    "id": "blconsultant",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "P3M"
+  ]
+ },
+ {
+  "tenant": "fmr",
+  "name": "Fidelity Workplace Investing LLC",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "FidelityCareers",
+    "job_count": 791
+   }
+  ],
+  "disallowed_sites": [
+   "targeted"
+  ]
+ },
+ {
+  "tenant": "fox",
+  "name": "REDSEA Red Seat Ventures, LLC",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Domestic",
+    "job_count": 317
+   },
+   {
+    "id": "FOXTVST_EAST",
+    "job_count": 32
+   },
+   {
+    "id": "FOXTVST_Central",
+    "job_count": 21
+   },
+   {
+    "id": "FOXTVST_WEST",
+    "job_count": 12
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "geaerospace",
+  "name": "IF1139 GE Aviation Systems LLC",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Only_Confidential_Executive_Recruiting",
+    "job_count": 1
+   },
+   {
+    "id": "GE_ExternalSite",
+    "job_count": 612
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "generalmotors",
+  "name": "General Motors LLC",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Careers_GM",
+    "job_count": 814
+   },
+   {
+    "id": "Careers_GM_Private",
+    "job_count": 0
+   },
+   {
+    "id": "Careers_TEI",
+    "job_count": 2
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "genpact",
+  "name": "6102 Genpact Romania Srl.",
+  "wd": "wd108",
+  "sites": [
+   {
+    "id": "campussite",
+    "job_count": 56
+   },
+   {
+    "id": "External_Careers",
+    "job_count": 2000
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "georgetown",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Georgetown_Faculty",
+    "job_count": 0
+   },
+   {
+    "id": "Georgetown_Admin_Careers",
+    "job_count": 136
+   },
+   {
+    "id": "Georgetown_Qatar_Careers",
+    "job_count": 7
+   },
+   {
+    "id": "Georgetown_Hoya_Staffing",
+    "job_count": 1
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "gilead",
+  "name": "1010 Gilead Sciences, Inc.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "gileadcareers",
+    "job_count": 518
+   },
+   {
+    "id": "kitepharmacareers",
+    "job_count": 89
+   },
+   {
+    "id": "gileadoncologycareers",
+    "job_count": 2
+   },
+   {
+    "id": "gileadhotjobcareers",
+    "job_count": 196
+   }
+  ],
+  "disallowed_sites": [
+   "irelandearlytalent"
+  ]
+ },
+ {
+  "tenant": "google",
+  "name": "GOC Philippines, Inc.",
+  "wd": "wd501",
+  "sites": [
+   {
+    "id": "GOCJobs",
+    "job_count": 72
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "gsk",
+  "name": "678 Glaxo Wellcome Production S.A.S.",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "GSKCareers",
+    "job_count": 678
+   },
+   {
+    "id": "ViiV_Careers",
+    "job_count": 48
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "hp",
+  "name": null,
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "ExternalCareerSite",
+    "job_count": 862
+   }
+  ],
+  "disallowed_sites": [
+   "EXTEU-AC-CareerSite"
+  ]
+ },
+ {
+  "tenant": "hpe",
+  "name": null,
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Jobsathpe",
+    "job_count": 1550
+   },
+   {
+    "id": "WFMathpe",
+    "job_count": 1592
+   },
+   {
+    "id": "ACJobSite",
+    "job_count": 1605
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "humana",
+  "name": "070 Humana Government Business, Inc.",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Humana_External_Career_Site",
+    "job_count": 244
+   },
+   {
+    "id": "CenterWell_External_Career_Site",
+    "job_count": 1815
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "illumina",
+  "name": "IN01 Illumina India",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "illumina-careers",
+    "job_count": 166
+   },
+   {
+    "id": "illumina-universityrecruiting",
+    "job_count": 0
+   },
+   {
+    "id": "illumina-earlycareers-europe",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "intel",
+  "name": "100 Intel Corporation",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 703
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "jci",
+  "name": "CNI JC China Investment Co Ltd",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "JCI_Confidential",
+    "job_count": 217
+   },
+   {
+    "id": "TUPU",
+    "job_count": 51
+   },
+   {
+    "id": "JCI",
+    "job_count": 2637
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "kimberlyclark",
+  "name": null,
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "XXX_EMEA",
+    "job_count": 0
+   },
+   {
+    "id": "XXX_LAO",
+    "job_count": 0
+   },
+   {
+    "id": "XXX_NA",
+    "job_count": 0
+   },
+   {
+    "id": "GLOBAL",
+    "job_count": 151
+   },
+   {
+    "id": "LinkedIn",
+    "job_count": 118
+   },
+   {
+    "id": "equest",
+    "job_count": 72
+   },
+   {
+    "id": "Arbex",
+    "job_count": 74
+   },
+   {
+    "id": "Arbex_LinkedIn",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "kla",
+  "name": "2200 ICOS Vision Systems NV",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Search",
+    "job_count": 1092
+   },
+   {
+    "id": "AnnArbor",
+    "job_count": 62
+   },
+   {
+    "id": "Israel",
+    "job_count": 76
+   },
+   {
+    "id": "Taiwan",
+    "job_count": 2
+   },
+   {
+    "id": "Filmetrics",
+    "job_count": 0
+   },
+   {
+    "id": "UR",
+    "job_count": 85
+   },
+   {
+    "id": "Penang_Semicon",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "lego",
+  "name": "1088 LEGO Brand Retail Inc.",
+  "wd": "wd103",
+  "sites": [
+   {
+    "id": "LEGO_External",
+    "job_count": 491
+   }
+  ],
+  "disallowed_sites": [
+   "LEGO_Executive"
+  ]
+ },
+ {
+  "tenant": "lloyds",
+  "name": "CO1001 Corporation of Lloyd\u2019s",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Lloyds-of-London",
+    "job_count": 12
+   },
+   {
+    "id": "early-careers",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "maersk",
+  "name": "APMT Management B.V.",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "APMT_Careers",
+    "job_count": 141
+   },
+   {
+    "id": "Damco_FFW",
+    "job_count": 1
+   },
+   {
+    "id": "Maersk_Careers",
+    "job_count": 1261
+   },
+   {
+    "id": "Safmarine",
+    "job_count": 0
+   },
+   {
+    "id": "Sealand",
+    "job_count": 0
+   },
+   {
+    "id": "Maersk_Manual",
+    "job_count": 893
+   },
+   {
+    "id": "PT_Careers",
+    "job_count": 57
+   },
+   {
+    "id": "Alianca_Careers",
+    "job_count": 1
+   },
+   {
+    "id": "MCI_Careers",
+    "job_count": 14
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "manulife",
+  "name": "Company 28 - Manulife (International) Limited",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "MFCJH_Jobs",
+    "job_count": 605
+   }
+  ],
+  "disallowed_sites": [
+   "MFCJH_AdminJobs"
+  ]
+ },
+ {
+  "tenant": "mars",
+  "name": null,
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "ExternalPrivate1",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "External",
+   "MexHV",
+   "ChampionPetfoods",
+   "BetterTogether"
+  ]
+ },
+ {
+  "tenant": "mastercard",
+  "name": "Egypt: Mastercard Egypt LLC",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "CorporateCareers",
+    "job_count": 1105
+   },
+   {
+    "id": "Campus",
+    "job_count": 56
+   },
+   {
+    "id": "ContractorConversion",
+    "job_count": 8
+   },
+   {
+    "id": "RYC",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "CUOReqSite",
+   "CampusApplyOnly",
+   "Public_Posting_Site"
+  ]
+ },
+ {
+  "tenant": "mdlz",
+  "name": "GB08 MDLZ UK Reading Science",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 1381
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "medtronic",
+  "name": "IND India Medtronic Private Ltd",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "MedtronicCareers",
+    "job_count": 1043
+   }
+  ],
+  "disallowed_sites": [
+   "RedeploymentMedtronicCareers"
+  ]
+ },
+ {
+  "tenant": "mgmresorts",
+  "name": null,
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Pool-Hiring-2021",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "MGMCareers",
+   "PrivateTeamsters",
+   "PrivatePainters",
+   "PrivateOperatingEngineers",
+   "PrivateMusicians",
+   "PrivateIATSE",
+   "PrivateCulinary",
+   "PrivateCarpenters",
+   "PrivateBartenders",
+   "PS1",
+   "Analytics",
+   "PrivateSPFPAAmalgamated"
+  ]
+ },
+ {
+  "tenant": "micron",
+  "name": "1580 Micron Memory Taiwan Co.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 3177
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "modernatx",
+  "name": "ModernaTX, Inc.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "M_tx",
+    "job_count": 258
+   },
+   {
+    "id": "M_tx_HSopt",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "msd",
+  "name": "3392 MSD International GmbH(Singapore Branch)",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "SearchJobs",
+    "job_count": 907
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "nasdaq",
+  "name": "NOIP Nasdaq Corporate Solutions (India) Private Limited",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Global_External_Site",
+    "job_count": 175
+   },
+   {
+    "id": "US_External_Career_Site",
+    "job_count": 4
+   },
+   {
+    "id": "eVestment",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "job_postings"
+  ]
+ },
+ {
+  "tenant": "nationwide",
+  "name": "A01 Nationwide Mutual Insurance Co.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Nationwide_Career",
+    "job_count": 178
+   },
+   {
+    "id": "Nationwide_Career_India",
+    "job_count": 22
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "netflix",
+  "name": "Netflix Animation Studios Australia Pty Ltd",
+  "wd": "wd108",
+  "sites": [
+   {
+    "id": "Netflix",
+    "job_count": 604
+   },
+   {
+    "id": "Eyeline",
+    "job_count": 34
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "ngc",
+  "name": "0090 CORP-Corporate Office",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Northrop_Grumman_External_Site",
+    "job_count": 3756
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "nordstrom",
+  "name": "Nordstrom Inc",
+  "wd": "wd501",
+  "sites": [
+   {
+    "id": "nordstrom_careers",
+    "job_count": 1435
+   }
+  ],
+  "disallowed_sites": [
+   "nordstrom_internship"
+  ]
+ },
+ {
+  "tenant": "novartis",
+  "name": "C010 (FCRS = CH010) Novartis International AG",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Novartis_Careers",
+    "job_count": 827
+   },
+   {
+    "id": "SwissRAVSwitzerlandCareerSite",
+    "job_count": 0
+   },
+   {
+    "id": "Internal_Careers_for_Acquired_Entities",
+    "job_count": 490
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "nvidia",
+  "name": "IL00 Mellanox Technologies, Ltd.",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "NVIDIAExternalCareerSite",
+    "job_count": 2000
+   }
+  ],
+  "disallowed_sites": [
+   "NVIDIAExternalCareerSiteResearch",
+   "talentcommunity"
+  ]
+ },
+ {
+  "tenant": "nxp",
+  "name": "US63 NXP USA Inc.",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "careers",
+    "job_count": 817
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "paypal",
+  "name": "0020 PayPal, Inc.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "jobs",
+    "job_count": 329
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "pfizer",
+  "name": "7Z4 Pfizer, Inc.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "PfizerCareers",
+    "job_count": 528
+   },
+   {
+    "id": "ContractorConversions",
+    "job_count": 0
+   },
+   {
+    "id": "Canada_Only_External",
+    "job_count": 1
+   },
+   {
+    "id": "Costa_Rica_External",
+    "job_count": 1
+   }
+  ],
+  "disallowed_sites": [
+   "InternalJobs"
+  ]
+ },
+ {
+  "tenant": "pg",
+  "name": null,
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "1000",
+    "job_count": 840
+   },
+   {
+    "id": "1001",
+    "job_count": 6
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "philips",
+  "name": null,
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "jobs-and-careers",
+    "job_count": 802
+   }
+  ],
+  "disallowed_sites": [
+   "Internal-Job-Postings-List-for-Philips-Contingent-Workers"
+  ]
+ },
+ {
+  "tenant": "pnc",
+  "name": "PNC Wealth Management LLC",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 2000
+   },
+   {
+    "id": "HarrisWilliams",
+    "job_count": 19
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "polaris",
+  "name": "PSI01 Polaris Sales Inc.",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "PolarisJobs",
+    "job_count": 133
+   },
+   {
+    "id": "TetonJobs",
+    "job_count": 5
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "pru",
+  "name": "032 PGIM, Inc.",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Careers",
+    "job_count": 155
+   },
+   {
+    "id": "PGIM_Careers",
+    "job_count": 83
+   }
+  ],
+  "disallowed_sites": [
+   "PrudentialTalentAcquisition",
+   "PFI_India"
+  ]
+ },
+ {
+  "tenant": "ptc",
+  "name": "Parametric Technology GmbH",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "PTC",
+    "job_count": 179
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "pvh",
+  "name": "PVH Asia Limited",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "PVH_Careers",
+    "job_count": 1576
+   },
+   {
+    "id": "broadbean_external",
+    "job_count": 183
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "pwc",
+  "name": "PwC Consulting Services (M) Sdn. Bhd.",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Global_Campus_Careers",
+    "job_count": 1361
+   },
+   {
+    "id": "Catalyst",
+    "job_count": 48
+   },
+   {
+    "id": "Global_Experienced_Careers",
+    "job_count": 3855
+   },
+   {
+    "id": "Global_Strategyand_Careers",
+    "job_count": 43
+   },
+   {
+    "id": "Acquisition",
+    "job_count": 7
+   },
+   {
+    "id": "US_Entry_Level_Careers",
+    "job_count": 61
+   },
+   {
+    "id": "US_Experienced_Careers",
+    "job_count": 538
+   },
+   {
+    "id": "Global_Recruitment_Events",
+    "job_count": 1
+   },
+   {
+    "id": "Global_Legal_Careers",
+    "job_count": 17
+   }
+  ],
+  "disallowed_sites": [
+   "NonPublic_Postings",
+   "CRM_Experienced_Careers_Site",
+   "CRM_Campus_Careers_Site",
+   "Mexico_NonAC_Career_Site"
+  ]
+ },
+ {
+  "tenant": "qantas",
+  "name": null,
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Qantas_Careers",
+    "job_count": 0
+   },
+   {
+    "id": "eQuestCareerSite",
+    "job_count": 0
+   },
+   {
+    "id": "Qantas_Engineering",
+    "job_count": 0
+   },
+   {
+    "id": "Qantas_Offline_Applications",
+    "job_count": 0
+   },
+   {
+    "id": "Casual_Cabin_Crew_Opportunities",
+    "job_count": 0
+   },
+   {
+    "id": "Jetstar_Careers",
+    "job_count": 0
+   },
+   {
+    "id": "Jetstar_Japan_Careers",
+    "job_count": 0
+   },
+   {
+    "id": "Pilots",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "qualcomm",
+  "name": null,
+  "wd": "wd12",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "rbc",
+  "name": "0000050176 RBC Capital Markets, LLC",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "RBCEARLYTALENT1",
+    "job_count": 32
+   }
+  ],
+  "disallowed_sites": [
+   "RBCGLOBAL1",
+   "ExternalPrivatePosting",
+   "ExternalPrivatePostingStudents"
+  ]
+ },
+ {
+  "tenant": "regeneron",
+  "name": "Regeneron Pharmaceuticals, Inc (USA)",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Careers",
+    "job_count": 579
+   },
+   {
+    "id": "IrelandPrivate",
+    "job_count": 4
+   },
+   {
+    "id": "US_Only_University_Relations_Career",
+    "job_count": 22
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "roche",
+  "name": "6221 Roche Information Solutions India Private Limited",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "roche-ext",
+    "job_count": 1259
+   },
+   {
+    "id": "ROG-A2O-GENE",
+    "job_count": 239
+   },
+   {
+    "id": "mysugr-ext",
+    "job_count": 12
+   }
+  ],
+  "disallowed_sites": [
+   "rog_conf"
+  ]
+ },
+ {
+  "tenant": "rockwellautomation",
+  "name": "RA Asia Pac Business Ctr (SGP)",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "External_Rockwell_Automation",
+    "job_count": 405
+   },
+   {
+    "id": "External-Rockwell-Automation-Early-Careers",
+    "job_count": 26
+   },
+   {
+    "id": "External-ERGs",
+    "job_count": 4
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "salesforce",
+  "name": "414 salesforce.com France S.A.S.",
+  "wd": "wd12",
+  "sites": [
+   {
+    "id": "External_Career_Site",
+    "job_count": 1530
+   },
+   {
+    "id": "Futureforce_NewGradRoles",
+    "job_count": 26
+   },
+   {
+    "id": "Mulesoft_Careersite",
+    "job_count": 14
+   },
+   {
+    "id": "Futureforce_Internships",
+    "job_count": 23
+   },
+   {
+    "id": "Salesforce_Research",
+    "job_count": 1
+   },
+   {
+    "id": "Tableau",
+    "job_count": 4
+   },
+   {
+    "id": "Datorama",
+    "job_count": 0
+   },
+   {
+    "id": "Heroku",
+    "job_count": 0
+   },
+   {
+    "id": "Slack",
+    "job_count": 19
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "sanofi",
+  "name": "(0789) Sanofi Healthcare India Private Limited",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "SanofiCareers",
+    "job_count": 925
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "shell",
+  "name": "THOP Shell Thailand - OP",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "ShellCareers",
+    "job_count": 147
+   },
+   {
+    "id": "Fasttrack",
+    "job_count": 16
+   },
+   {
+    "id": "NOVCareers",
+    "job_count": 0
+   },
+   {
+    "id": "Proactive",
+    "job_count": 9
+   },
+   {
+    "id": "Avature",
+    "job_count": 0
+   },
+   {
+    "id": "Naukri",
+    "job_count": 0
+   },
+   {
+    "id": "Pracuj",
+    "job_count": 0
+   },
+   {
+    "id": "Instagram",
+    "job_count": 0
+   },
+   {
+    "id": "LinkedIn_Paid_Campaign",
+    "job_count": 0
+   },
+   {
+    "id": "BrightNetwork",
+    "job_count": 0
+   },
+   {
+    "id": "Stepstone",
+    "job_count": 0
+   },
+   {
+    "id": "SEEK",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "spgi",
+  "name": "5121 S&P GLOBAL ASIAN HOLDINGS PTE LTD",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "SPGI_Careers",
+    "job_count": 296
+   },
+   {
+    "id": "SPGI_Internal",
+    "job_count": 311
+   },
+   {
+    "id": "OSTTRA_Careers",
+    "job_count": 0
+   },
+   {
+    "id": "aM_Careers",
+    "job_count": 0
+   },
+   {
+    "id": "Kensho_Careers",
+    "job_count": 7
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "statestreet",
+  "name": "1339 SS TECH (ZHEJIANG) CO LTD",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Global",
+    "job_count": 1226
+   },
+   {
+    "id": "eQuest",
+    "job_count": 217
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "stryker",
+  "name": "Stryker Corporation",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "StrykerCareers",
+    "job_count": 1477
+   },
+   {
+    "id": "StrykerAgencySite",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "suncor",
+  "name": "1160 Suncor Energy Inc.",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Suncor_External",
+    "job_count": 22
+   }
+  ],
+  "disallowed_sites": [
+   "Private_External"
+  ]
+ },
+ {
+  "tenant": "sunlife",
+  "name": "Sun Life Assurance Company of Canada",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Experienced",
+    "job_count": 214
+   },
+   {
+    "id": "Campus",
+    "job_count": 10
+   },
+   {
+    "id": "DigitalRolesOnly",
+    "job_count": 2
+   },
+   {
+    "id": "FullscopeRMS",
+    "job_count": 0
+   },
+   {
+    "id": "Experienced-Jobs",
+    "job_count": 276
+   },
+   {
+    "id": "MaxwellHealth",
+    "job_count": 0
+   },
+   {
+    "id": "PinnacleCare",
+    "job_count": 1
+   },
+   {
+    "id": "SLCManagement",
+    "job_count": 1
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "tapestry",
+  "name": "Tapestry, Inc.",
+  "wd": "wd108",
+  "sites": [
+   {
+    "id": "Tapestry_Careers",
+    "job_count": 2000
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "target",
+  "name": "1072-28 Target India (Non-USA)",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "targetcareers",
+    "job_count": 2000
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "td",
+  "name": "The Toronto-Dominion Bank (Canada)",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "TD_Bank_Careers",
+    "job_count": 1590
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "telstra",
+  "name": "Telstra Limited",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "Telstra_Careers",
+    "job_count": 200
+   },
+   {
+    "id": "tls-careers",
+    "job_count": 16
+   },
+   {
+    "id": "Private",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "thehartford",
+  "name": "Hartford Fire Ins. Co",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Careers_Restricted",
+    "job_count": 21
+   },
+   {
+    "id": "Careers_External",
+    "job_count": 258
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "tjx",
+  "name": "Marshalls of MA",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "TJX_EXTERNAL",
+    "job_count": 11247
+   },
+   {
+    "id": "TJX_PRIVATE_POSTINGS",
+    "job_count": 1922
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "toyota",
+  "name": "TDB-SOR Toyota do Brasil Ltda (Sorocaba) Company",
+  "wd": "wd503",
+  "sites": [
+   {
+    "id": "TASA",
+    "job_count": 3
+   },
+   {
+    "id": "Toyota_CA",
+    "job_count": 13
+   },
+   {
+    "id": "TMNA",
+    "job_count": 128
+   },
+   {
+    "id": "Toyota_CA_Co-op_Site",
+    "job_count": 4
+   },
+   {
+    "id": "TLAC",
+    "job_count": 115
+   },
+   {
+    "id": "TLAC_Confidential",
+    "job_count": 1
+   }
+  ],
+  "disallowed_sites": [
+   "TMNA_Professional",
+   "TMNA_College",
+   "NAMC"
+  ]
+ },
+ {
+  "tenant": "tranetechnologies",
+  "name": "BTE Trane Equipment Sales SA",
+  "wd": "wd12",
+  "sites": [
+   {
+    "id": "Trane_Technologies_Careers",
+    "job_count": 1666
+   }
+  ],
+  "disallowed_sites": [
+   "Limited_Access_Career_Site"
+  ]
+ },
+ {
+  "tenant": "travelers",
+  "name": "020 Travelers Indemnity Co",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 394
+   },
+   {
+    "id": "SimplyBusinesssExternal",
+    "job_count": 17
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "truist",
+  "name": "Truist Bank",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Careers",
+    "job_count": 1505
+   },
+   {
+    "id": "LDP",
+    "job_count": 1
+   },
+   {
+    "id": "AFCO",
+    "job_count": 3
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "uchicago",
+  "name": "University of Chicago",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "External",
+    "job_count": 382
+   },
+   {
+    "id": "CASE_External",
+    "job_count": 3
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "unilever",
+  "name": "1388 Unilever U.K. Central Resources Limited",
+  "wd": "wd3",
+  "sites": [
+   {
+    "id": "UK_TemporaryWorkersite",
+    "job_count": 8
+   },
+   {
+    "id": "Unilever_Early_Careers",
+    "job_count": 13
+   },
+   {
+    "id": "Unilever_Experienced_Professionals",
+    "job_count": 201
+   },
+   {
+    "id": "Unilever_UFLP_ULIP_Fast_Track_Career_Site",
+    "job_count": 1
+   },
+   {
+    "id": "Unilever_Early_Bird_Early_Access_to_Job_Posting",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": [
+   "EB",
+   "Unilever_VIP_Careers"
+  ]
+ },
+ {
+  "tenant": "upenn",
+  "name": "Trustees of University of Pennsylvania",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "careers-at-penn",
+    "job_count": 470
+   },
+   {
+    "id": "PSOM",
+    "job_count": 223
+   },
+   {
+    "id": "DAR",
+    "job_count": 14
+   },
+   {
+    "id": "ISC",
+    "job_count": 3
+   },
+   {
+    "id": "PennVet",
+    "job_count": 39
+   },
+   {
+    "id": "Wharton",
+    "job_count": 29
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "usaa",
+  "name": "2002 United Services Automobile Asn",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "USAAJOBSWD",
+    "job_count": 205
+   },
+   {
+    "id": "CONFIDENTIAL",
+    "job_count": 7
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "usbank",
+  "name": "134 U.S. Bank Europe DAC - Poland Branch",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "Elavon_Careers",
+    "job_count": 41
+   },
+   {
+    "id": "US_Bank_Careers",
+    "job_count": 1176
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "vanguard",
+  "name": "VISCO Information Technology Services Private Limited",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "vanguard_external",
+    "job_count": 349
+   },
+   {
+    "id": "contractors_restricted",
+    "job_count": 13
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "vfc",
+  "name": null,
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "vfc_careers",
+    "job_count": 1251
+   },
+   {
+    "id": "northface_careers",
+    "job_count": 330
+   },
+   {
+    "id": "timberland_careers",
+    "job_count": 133
+   },
+   {
+    "id": "vans_careers",
+    "job_count": 579
+   },
+   {
+    "id": "napapijri_careers",
+    "job_count": 26
+   },
+   {
+    "id": "kipling_careers",
+    "job_count": 38
+   },
+   {
+    "id": "eastpak_careers",
+    "job_count": 11
+   },
+   {
+    "id": "smartwool_careers",
+    "job_count": 4
+   },
+   {
+    "id": "broadbean",
+    "job_count": 41
+   },
+   {
+    "id": "icebreaker_careers",
+    "job_count": 26
+   },
+   {
+    "id": "dickies_careers",
+    "job_count": 0
+   },
+   {
+    "id": "supreme_careers",
+    "job_count": 0
+   },
+   {
+    "id": "altra_careers",
+    "job_count": 16
+   },
+   {
+    "id": "jansport_careers",
+    "job_count": 4
+   },
+   {
+    "id": "vfc_usca_invite",
+    "job_count": 3
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "visa",
+  "name": "485 Visa Consolidated Support Services (India) Private Limited",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Visa",
+    "job_count": 811
+   },
+   {
+    "id": "Visa_Early_Careers",
+    "job_count": 28
+   }
+  ],
+  "disallowed_sites": [
+   "Visa_Talent_Portal"
+  ]
+ },
+ {
+  "tenant": "vrtx",
+  "name": "Vertex US Distribution",
+  "wd": "wd501",
+  "sites": [
+   {
+    "id": "Vertex_Careers",
+    "job_count": 303
+   },
+   {
+    "id": "Vertex_co-op",
+    "job_count": 32
+   },
+   {
+    "id": "vertex_physician_investigator",
+    "job_count": 0
+   },
+   {
+    "id": "vertex_intern",
+    "job_count": 0
+   },
+   {
+    "id": "vertex_industrial_placement_student",
+    "job_count": 3
+   },
+   {
+    "id": "vertex_fellows",
+    "job_count": 0
+   },
+   {
+    "id": "vertex_mba_intern",
+    "job_count": 2
+   },
+   {
+    "id": "vertex_mba_ai",
+    "job_count": 0
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "workday",
+  "name": "Workday India Private Limited",
+  "wd": "wd5",
+  "sites": [
+   {
+    "id": "Workday",
+    "job_count": 394
+   },
+   {
+    "id": "Workday_Early_Career",
+    "job_count": 11
+   },
+   {
+    "id": "Workday_Executive_Site",
+    "job_count": 1
+   },
+   {
+    "id": "Workday_Jobs",
+    "job_count": 22
+   }
+  ],
+  "disallowed_sites": []
+ },
+ {
+  "tenant": "zendesk",
+  "name": "Zendesk, Incorporated (Philippines)",
+  "wd": "wd1",
+  "sites": [
+   {
+    "id": "zendesk",
+    "job_count": 142
+   }
+  ],
+  "disallowed_sites": []
+ }
+]

@@ -1,0 +1,62 @@
+@baseUrl = http://127.0.0.1:6002
+# @baseUrl = https://workday-scraper.omkar.cloud
+
+### Jobs search (tenant/site + keyword)
+GET {{baseUrl}}/workday/jobs/search?site=adobe/external_experienced&query=engineer
+
+### Jobs search (career link, friendly filters by label / ISO code)
+GET {{baseUrl}}/workday/jobs/search?site=https://adobe.wd5.myworkdayjobs.com/external_experienced&category=Engineering&country=US
+
+### Jobs search (page 2)
+GET {{baseUrl}}/workday/jobs/search?site=adobe&page=2
+
+### Jobs search (raw facet ids from /jobs/filters)
+GET {{baseUrl}}/workday/jobs/search?site=adobe&facets=jobFamilyGroup:591af8b812fa10737af39db3d96eed9f
+
+### Jobs search (hydrated with full details)
+GET {{baseUrl}}/workday/jobs/search?site=workday&query=engineer&remote_type=Remote&include_details=true
+
+### Jobs search (another locale)
+GET {{baseUrl}}/workday/jobs/search?site=salesforce&locale=fr-FR
+
+### Job details (posting link)
+GET {{baseUrl}}/workday/jobs/details?job=https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Research-Engineer_R166886
+
+### Job details (requisition id + site)
+GET {{baseUrl}}/workday/jobs/details?job=R166886&site=adobe
+
+### Jobs batch
+GET {{baseUrl}}/workday/jobs/batch?jobs=R166886,Research-Engineer_R166886&site=adobe
+
+### Similar jobs
+GET {{baseUrl}}/workday/jobs/similar?job=R166886&site=adobe
+
+### Filter vocabulary of a site
+GET {{baseUrl}}/workday/jobs/filters?site=https://target.wd5.myworkdayjobs.com/targetcareers&region=Minnesota
+
+### Newest postings (siteMap.xml), hydrated
+GET {{baseUrl}}/workday/jobs/latest?site=adobe&limit=20&include_details=true
+
+### Full dump
+GET {{baseUrl}}/workday/jobs/all?site=adobe&max_jobs=500
+
+### Company -> tenant
+GET {{baseUrl}}/workday/companies/resolve?company=Pfizer
+
+### Company -> tenant (domain)
+GET {{baseUrl}}/workday/companies/resolve?company=capitalone.com
+
+### Company details (every career site with counts and top filters)
+GET {{baseUrl}}/workday/companies/details?company=salesforce
+
+### Directory of well-known tenants
+GET {{baseUrl}}/workday/companies/search?query=sales
+
+### Countries (global facet ids)
+GET {{baseUrl}}/workday/countries
+
+### Error: site that does not exist
+GET {{baseUrl}}/workday/jobs/search?site=adobe/nosuchsite
+
+### Error: requisition id without a site
+GET {{baseUrl}}/workday/jobs/details?job=R166886

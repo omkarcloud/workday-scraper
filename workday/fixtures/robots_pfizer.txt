@@ -1,0 +1,12 @@
+Sitemap: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/siteMap.xml
+Sitemap: https://pfizer.wd1.myworkdayjobs.com/ContractorConversions/siteMap.xml
+Sitemap: https://pfizer.wd1.myworkdayjobs.com/Canada_Only_External/siteMap.xml
+Sitemap: https://pfizer.wd1.myworkdayjobs.com/Costa_Rica_External/siteMap.xml
+
+User-agent: *
+Allow: /PfizerCareers/
+Allow: /ContractorConversions/
+Allow: /Canada_Only_External/
+Allow: /Costa_Rica_External/
+Disallow: /InternalJobs/
+Disallow: /refreshFacet/

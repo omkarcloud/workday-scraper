@@ -1,0 +1,6 @@
+
+User-agent: *
+Disallow: /nke/
+Disallow: /nke2/
+Disallow: /nke4/
+Disallow: /refreshFacet/

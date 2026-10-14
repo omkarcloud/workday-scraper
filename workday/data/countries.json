@@ -1,0 +1,592 @@
+[
+ {
+  "name": "Algeria",
+  "code": "DZ",
+  "id": "9e616caff5b1480aab04f1ce22d7e7d4"
+ },
+ {
+  "name": "Argentina",
+  "code": "AR",
+  "id": "e42ad5eac46d4cc9b367ceaef42577c5"
+ },
+ {
+  "name": "Australia",
+  "code": "AU",
+  "id": "d903bb3fedad45039383f6de334ad4db"
+ },
+ {
+  "name": "Austria",
+  "code": "AT",
+  "id": "d004c0d1a6c84511ab048669fcdf9fd7"
+ },
+ {
+  "name": "Azerbaijan",
+  "code": "AZ",
+  "id": "db69b812446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Bahamas",
+  "code": "BS",
+  "id": "db69b90c446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Bahrain",
+  "code": "BH",
+  "id": "01d8b98083af4f919601e5dba982afc4"
+ },
+ {
+  "name": "Bangladesh",
+  "code": "BD",
+  "id": "db69b9fc446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Belgium",
+  "code": "BE",
+  "id": "a04ea128f43a42e59b1e6a19e8f0b374"
+ },
+ {
+  "name": "Bermuda",
+  "code": "BM",
+  "id": "fa7b4f891d1446858bc693997ae9ea53"
+ },
+ {
+  "name": "Bosnia and Herzegovina",
+  "code": "BA",
+  "id": "03d13abe000e4b15bb68d39a597d439d"
+ },
+ {
+  "name": "Brazil",
+  "code": "BR",
+  "id": "1a29bb1357b240ab99a2fa755cc87c0e"
+ },
+ {
+  "name": "Bulgaria",
+  "code": "BG",
+  "id": "25f4875dc598484dbeee857eb2d81652"
+ },
+ {
+  "name": "Cambodia",
+  "code": "KH",
+  "id": "db69bf9c446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Canada",
+  "code": "CA",
+  "id": "a30a87ed25634629aa6c3958aa2b91ea"
+ },
+ {
+  "name": "Chile",
+  "code": "CL",
+  "id": "53fe09ef12b9408682a1d2439823f2e0"
+ },
+ {
+  "name": "China",
+  "code": "CN",
+  "id": "6cb77610a8a543aea2d6bc10457e35d4"
+ },
+ {
+  "name": "China/Hong Kong SAR",
+  "code": "HK",
+  "id": "d4afdeb461d446e4babd204bd102dba8"
+ },
+ {
+  "name": "China/Mainland",
+  "code": "CN",
+  "id": "6cb77610a8a543aea2d6bc10457e35d4"
+ },
+ {
+  "name": "Colombia",
+  "code": "CO",
+  "id": "e8106cd6a3534f2dba6fdee2d41db89d"
+ },
+ {
+  "name": "Congo, Democratic Republic of the",
+  "code": "CD",
+  "id": "db69c26c446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Costa Rica",
+  "code": "CR",
+  "id": "99abe7e6bb3f4c108aebebf01a369ec5"
+ },
+ {
+  "name": "Croatia",
+  "code": "HR",
+  "id": "1face6f426c14de9979a134697da0db3"
+ },
+ {
+  "name": "Cyprus",
+  "code": "CY",
+  "id": "db69c370446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Czech Republic",
+  "code": "CZ",
+  "id": "fc078443155c4ad294201ecf5a61a499"
+ },
+ {
+  "name": "Czechia",
+  "code": "CZ",
+  "id": "fc078443155c4ad294201ecf5a61a499"
+ },
+ {
+  "name": "Côte d'Ivoire",
+  "code": "CI",
+  "id": "4bc79a4526e4459d93db166b02d214db"
+ },
+ {
+  "name": "Denmark",
+  "code": "DK",
+  "id": "49ab063f422741e2aef271de00efeac8"
+ },
+ {
+  "name": "Dominican Republic",
+  "code": "DO",
+  "id": "cec6aab2cee74a53a21629cd61000ea5"
+ },
+ {
+  "name": "Ecuador",
+  "code": "EC",
+  "id": "2752bce253374948a6bad7ed2059e054"
+ },
+ {
+  "name": "Egypt",
+  "code": "EG",
+  "id": "d865e83093ad42319653b08e61f7db49"
+ },
+ {
+  "name": "El Salvador",
+  "code": "SV",
+  "id": "dc96653331d74bd0b01ae3b086bcbe21"
+ },
+ {
+  "name": "Estonia",
+  "code": "EE",
+  "id": "038b0482bfea403abb61c9bcc3d7eb60"
+ },
+ {
+  "name": "Eswatini",
+  "code": "SZ",
+  "id": "bbc94efce1eb471881e82f61629ac52d"
+ },
+ {
+  "name": "Ethiopia",
+  "code": "ET",
+  "id": "db69c460446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Finland",
+  "code": "FI",
+  "id": "0afb2fa656da42e8bfb6d47bd24a26fa"
+ },
+ {
+  "name": "France",
+  "code": "FR",
+  "id": "54c5b6971ffb4bf0b116fe7651ec789a"
+ },
+ {
+  "name": "Georgia",
+  "code": "GE",
+  "id": "db69c550446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Germany",
+  "code": "DE",
+  "id": "dcc5b7608d8644b3a93716604e78e995"
+ },
+ {
+  "name": "Ghana",
+  "code": "GH",
+  "id": "db69c640446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Greece",
+  "code": "GR",
+  "id": "566388c1eb974c42bd9e3da4c2f57d60"
+ },
+ {
+  "name": "Guatemala",
+  "code": "GT",
+  "id": "db3b4b80df0f4287b262e5564c10edfa"
+ },
+ {
+  "name": "Honduras",
+  "code": "HN",
+  "id": "95d28f232bd24d82994625af5f82def9"
+ },
+ {
+  "name": "Hong Kong",
+  "code": "HK",
+  "id": "d4afdeb461d446e4babd204bd102dba8"
+ },
+ {
+  "name": "Hong Kong SAR",
+  "code": "HK",
+  "id": "d4afdeb461d446e4babd204bd102dba8"
+ },
+ {
+  "name": "Hungary",
+  "code": "HU",
+  "id": "9db257f5937e4421b2fac64eec6832f8"
+ },
+ {
+  "name": "Iceland",
+  "code": "IS",
+  "id": "373bf1e5c8004104bbf8c3d6ef86e068"
+ },
+ {
+  "name": "India",
+  "code": "IN",
+  "id": "c4f78be1a8f14da0ab49ce1162348a5e"
+ },
+ {
+  "name": "Indonesia",
+  "code": "ID",
+  "id": "b31234dbcdda4da9ba8fa073c5944e36"
+ },
+ {
+  "name": "Ireland",
+  "code": "IE",
+  "id": "04a05835925f45b3a59406a2a6b72c8a"
+ },
+ {
+  "name": "Isle of Man",
+  "code": "IM",
+  "id": "640185328b864f9e80370f407a9bd42b"
+ },
+ {
+  "name": "Israel",
+  "code": "IL",
+  "id": "084562884af243748dad7c84c304d89a"
+ },
+ {
+  "name": "Italy",
+  "code": "IT",
+  "id": "8cd04a563fd94da7b06857a79faaf815"
+ },
+ {
+  "name": "Japan",
+  "code": "JP",
+  "id": "8b705da2becf43cfaccc091da0988ab2"
+ },
+ {
+  "name": "Jordan",
+  "code": "JO",
+  "id": "809723fc85024f499ca856efcd8d6b34"
+ },
+ {
+  "name": "Kazakhstan",
+  "code": "KZ",
+  "id": "db69ebac446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Kenya",
+  "code": "KE",
+  "id": "9e684fd7be1e469d9ee955a4c3b754be"
+ },
+ {
+  "name": "Korea, Republic of",
+  "code": "KR",
+  "id": "7a5a2aadf9d34086a2bfbfd408bc28da"
+ },
+ {
+  "name": "Kuwait",
+  "code": "KW",
+  "id": "eb2e6ec0f73c4b0e94c68396631332d6"
+ },
+ {
+  "name": "Laos",
+  "code": "LA",
+  "id": "db69cbe0446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Latvia",
+  "code": "LV",
+  "id": "1c026f3b1b8640d8bdfcb95466663e4d"
+ },
+ {
+  "name": "Lebanon",
+  "code": "LB",
+  "id": "6dfdb00cf8554fb9aab9f4ef39f830e0"
+ },
+ {
+  "name": "Lithuania",
+  "code": "LT",
+  "id": "8a0328effd25491fb8e6a08801f08e94"
+ },
+ {
+  "name": "Luxembourg",
+  "code": "LU",
+  "id": "328b82f597514643a7683a78fc67c3f1"
+ },
+ {
+  "name": "Macao",
+  "code": "MO",
+  "id": "e57942a30d504032a60614936c726d5e"
+ },
+ {
+  "name": "Macau SAR",
+  "code": "MO",
+  "id": "e57942a30d504032a60614936c726d5e"
+ },
+ {
+  "name": "Mainland China",
+  "code": "CN",
+  "id": "6cb77610a8a543aea2d6bc10457e35d4"
+ },
+ {
+  "name": "Malaysia",
+  "code": "MY",
+  "id": "972dc4ba8d454bc0b893ff84b1529077"
+ },
+ {
+  "name": "Mauritius",
+  "code": "MU",
+  "id": "a759018ba6ac489d9f16c086b914e1b6"
+ },
+ {
+  "name": "Mexico",
+  "code": "MX",
+  "id": "e2adff9272454660ac4fdb56fc70bb51"
+ },
+ {
+  "name": "Mongolia",
+  "code": "MN",
+  "id": "db69d356446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Morocco",
+  "code": "MA",
+  "id": "7aaca3f6fc774f16802a4df4718a5b53"
+ },
+ {
+  "name": "Myanmar",
+  "code": "MM",
+  "id": "8ae7375b330441989443b02b66699ff9"
+ },
+ {
+  "name": "Namibia",
+  "code": "NA",
+  "id": "db69d446446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Netherlands",
+  "code": "NL",
+  "id": "9696868b09c64d52a62ee13b052383cc"
+ },
+ {
+  "name": "New Zealand",
+  "code": "NZ",
+  "id": "55273a1b49934d97ae15342ef51f6b95"
+ },
+ {
+  "name": "Nigeria",
+  "code": "NG",
+  "id": "db69d536446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Norway",
+  "code": "NO",
+  "id": "d07f8ca8625e4345b98a91d0558b872a"
+ },
+ {
+  "name": "Pakistan",
+  "code": "PK",
+  "id": "567ef1bd0cc84d4e83b98d0013008264"
+ },
+ {
+  "name": "Panama",
+  "code": "PA",
+  "id": "a390372e575c41ecb7240c51ce9067bd"
+ },
+ {
+  "name": "Paraguay",
+  "code": "PY",
+  "id": "db69d70c446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Peru",
+  "code": "PE",
+  "id": "0eb156ca580c4db786a7894bdaa77450"
+ },
+ {
+  "name": "Philippines",
+  "code": "PH",
+  "id": "e56f1daf83e04bacae794ba5c5593560"
+ },
+ {
+  "name": "Poland",
+  "code": "PL",
+  "id": "131d5ac7e3ee4d7b962bdc96e498e412"
+ },
+ {
+  "name": "Portugal",
+  "code": "PT",
+  "id": "2e8c5034deb045d49315417c347472ca"
+ },
+ {
+  "name": "Puerto Rico",
+  "code": "PR",
+  "id": "0a076377c3d94bc1b4ed46b4e7d82a50"
+ },
+ {
+  "name": "Qatar",
+  "code": "QA",
+  "id": "f5ff182c7fab406bbb110cc1f7e99064"
+ },
+ {
+  "name": "Romania",
+  "code": "RO",
+  "id": "f2e609fe92974a55a05fc1cdc2852122"
+ },
+ {
+  "name": "Russian Federation",
+  "code": "RU",
+  "id": "026798f585c54d8d95bf6d6788611244"
+ },
+ {
+  "name": "Saudi Arabia",
+  "code": "SA",
+  "id": "50423b5190ad49bb89e94cd58dfaad69"
+ },
+ {
+  "name": "Senegal",
+  "code": "SN",
+  "id": "db69d8f6446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Serbia",
+  "code": "RS",
+  "id": "b3f8697442124d6aaeb752a13c1e8491"
+ },
+ {
+  "name": "Singapore",
+  "code": "SG",
+  "id": "80938777cac5440fab50d729f9634969"
+ },
+ {
+  "name": "Slovakia",
+  "code": "SK",
+  "id": "d2f29df0c90f4cea9e7d17f2ed8a86ad"
+ },
+ {
+  "name": "Slovenia",
+  "code": "SI",
+  "id": "db69d9f0446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "South Africa",
+  "code": "ZA",
+  "id": "4db3c26940b944919b83612cc1193eed"
+ },
+ {
+  "name": "South Korea",
+  "code": "KR",
+  "id": "7a5a2aadf9d34086a2bfbfd408bc28da"
+ },
+ {
+  "name": "Spain",
+  "code": "ES",
+  "id": "bd34c524a6a04ae6915f5d96fa086199"
+ },
+ {
+  "name": "Sri Lanka",
+  "code": "LK",
+  "id": "db69e062446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Sweden",
+  "code": "SE",
+  "id": "6a800a4736884df5826858d435650f45"
+ },
+ {
+  "name": "Switzerland",
+  "code": "CH",
+  "id": "187134fccb084a0ea9b4b95f23890dbe"
+ },
+ {
+  "name": "Taiwan",
+  "code": "TW",
+  "id": "a4e08b475d6a4176853c9d1cb9854e02"
+ },
+ {
+  "name": "Taiwan Area",
+  "code": "TW",
+  "id": "a4e08b475d6a4176853c9d1cb9854e02"
+ },
+ {
+  "name": "Taiwan Region",
+  "code": "TW",
+  "id": "a4e08b475d6a4176853c9d1cb9854e02"
+ },
+ {
+  "name": "Tanzania",
+  "code": "TZ",
+  "id": "db69e332446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Thailand",
+  "code": "TH",
+  "id": "873d0f604e3b458c990cb4d83a5c0f14"
+ },
+ {
+  "name": "Trinidad and Tobago",
+  "code": "TT",
+  "id": "db69e418446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Tunisia",
+  "code": "TN",
+  "id": "db69e508446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Türkiye",
+  "code": "TR",
+  "id": "c2e3bac5bbbb47b29dfc6e8b56a1586e"
+ },
+ {
+  "name": "Uganda",
+  "code": "UG",
+  "id": "db69e6f2446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Ukraine",
+  "code": "UA",
+  "id": "a4051ef996ac40778d4c79e3f2dedfd2"
+ },
+ {
+  "name": "United Arab Emirates",
+  "code": "AE",
+  "id": "7b4fa1f369bd4604ba3692682fcbe345"
+ },
+ {
+  "name": "United Kingdom",
+  "code": "GB",
+  "id": "29247e57dbaf46fb855b224e03170bc7"
+ },
+ {
+  "name": "United States of America",
+  "code": "US",
+  "id": "bc33aa3152ec42d4995f4791a106ed09"
+ },
+ {
+  "name": "Uruguay",
+  "code": "UY",
+  "id": "db69b538446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Uzbekistan",
+  "code": "UZ",
+  "id": "db69e7d8446c11de98360015c5e6daf6"
+ },
+ {
+  "name": "Venezuela",
+  "code": "VE",
+  "id": "635d2e106177441f9100b9d8688fbb39"
+ },
+ {
+  "name": "Vietnam",
+  "code": "VN",
+  "id": "db69e8c8446c11de98360015c5e6daf6"
+ }
+]
