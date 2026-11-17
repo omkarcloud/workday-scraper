@@ -60,7 +60,9 @@ from concurrent.futures import ThreadPoolExecutor
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
+import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
+from scraper_utils import debug, fanout, retry, sessions
 
 JOBS_DOMAIN = "myworkdayjobs.com"
 SITE_DOMAIN = "myworkdaysite.com"   # the older host shape: /recruiting/{tenant}/{site}
@@ -73,12 +75,12 @@ FANOUT_WORKERS = 8
 
 JSON_HEADERS = {
     "accept": "application/json",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("workday"),
     "content-type": "application/json",
 }
 PAGE_HEADERS = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("workday"),
 }
 
 
@@ -116,25 +118,12 @@ def _proxy_for_new_session():
 
 
 def _session():
-    sess = getattr(_local, "session", None)
-    if sess is None:
-        from curl_cffi import requests as curl_requests
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        proxy = _proxy_for_new_session()
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
-        _local.session = sess
-    return sess
+    return sessions.thread_session(_local, lambda: sessions.curl_session(
+        IMPERSONATE, proxy_fn=_proxy_for_new_session))
 
 
 def _drop_session():
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 def _note_block():
@@ -147,14 +136,7 @@ def _note_block():
 
 
 def dump_debug(name, text):
-    dbg = os.environ.get("WORKDAY_DEBUG_DIR", "")
-    if dbg and text:
-        try:
-            os.makedirs(dbg, exist_ok=True)
-            with open(os.path.join(dbg, name + ".txt"), "w", encoding="utf-8") as f:
-                f.write(text)
-        except OSError:
-            pass
+    debug.dump("WORKDAY_DEBUG_DIR", name, text, encoding="utf-8")
 
 
 # ---- hosts / urls ---------------------------------------------------------------
@@ -232,16 +214,7 @@ def _json_of(resp, label):
 
 
 def _retrying(fn):
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except WorkdayUpstreamError as e:      # includes WorkdayBlocked
-            last = e
-            _drop_session()
-        if attempt < config.MAX_RETRIES:
-            time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    return retry.run(fn, config, WorkdayUpstreamError, lambda e: _drop_session())
 
 
 def get_json(url, params=None, *, label=None, not_found_message=None):
@@ -327,13 +300,7 @@ _fanout = ThreadPoolExecutor(max_workers=FANOUT_WORKERS * 4, thread_name_prefix=
 
 
 def run_parallel(fns):
-    if not fns:
-        return []
-    if len(fns) == 1:
-        return [fns[0]()]
-    futures = [_fanout.submit(fn) for fn in fns[1:]]
-    first = fns[0]()
-    return [first] + [f.result() for f in futures]
+    return fanout.on_pool_caller_first(_fanout, fns)
 
 
 def map_parallel(fn, items, workers=FANOUT_WORKERS):
@@ -350,12 +317,7 @@ def map_parallel(fn, items, workers=FANOUT_WORKERS):
 
 def soft(fn, default=None):
     """Wrap an optional lookup: any upstream failure yields `default`."""
-    def run():
-        try:
-            return fn()
-        except (UpstreamError, BadRequest, NotFound):
-            return default
-    return run
+    return fanout.soft(fn, default, (UpstreamError, BadRequest, NotFound))
 
 
 if __name__ == "__main__":

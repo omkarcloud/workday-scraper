@@ -32,6 +32,8 @@ import re
 from datetime import date, timedelta
 
 from workday import refs
+from scraper_utils.values import bool_or_none
+from scraper_utils.text import squashed as text
 
 _TAG_RE = re.compile(r"<[^>]+>")
 _BREAK_RE = re.compile(r"<\s*(?:br\s*/?|/p|/div|/h[1-6]|/tr|/ul|/ol)\s*>", re.I)
@@ -47,12 +49,6 @@ _ENTITY_CODE_RE = re.compile(r"^(?:(?=[A-Z0-9]*\d)(?:[A-Z0-9]{3,5}|\d{1,2})\s+|[
 
 
 # ---- value helpers ------------------------------------------------------------
-
-def text(value):
-    if isinstance(value, str):
-        value = " ".join(value.split())
-        return value or None
-    return None
 
 
 def to_int(value):
@@ -72,10 +68,6 @@ def clean_entity(name):
     if not name:
         return None
     return text(_ENTITY_CODE_RE.sub("", name)) or name
-
-
-def bool_or_none(value):
-    return value if isinstance(value, bool) else None
 
 
 def html_to_text(raw):

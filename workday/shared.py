@@ -19,6 +19,7 @@ import time
 from workday import refs
 from workday.fetch import (JOBS_DOMAIN, PAGE_SIZE, WorkdayNotFound, WorkdayUpstreamError, cxs_jobs, get_text, host_of,
                            map_parallel)
+from scraper_utils import memo as memo_utils
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 
@@ -71,15 +72,7 @@ _memo = {}
 
 
 def memo(key, ttl, build):
-    now = time.time()
-    with _lock:
-        hit = _memo.get(key)
-        if hit and hit[0] > now:
-            return hit[1]
-    value = build()
-    with _lock:
-        _memo[key] = (now + ttl, value)
-    return value
+    return memo_utils.expiring(_memo, _lock, key, ttl, build)
 
 
 def _load_data(name):

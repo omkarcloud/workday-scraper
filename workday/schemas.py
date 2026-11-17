@@ -28,18 +28,10 @@ from marshmallow import ValidationError, fields
 from schema_fields import (BaseSchema, CommaListField, Flag, LimitField, PageField, PositiveInt,
                            RefField, StrippedString)
 from workday import refs
+from scraper_utils.schema import max_length as _max_length
 
 _FACET_PAIR_RE = re.compile(r"^([A-Za-z0-9_\-]+)\s*[:=]\s*([0-9a-fA-F]{32})$")
 _LOCALE_RE = re.compile(r"^[a-z]{2}(?:[-_][A-Za-z]{2,4})?$")
-
-
-def _max_length(n):
-    """validate.Length(max=n) that tolerates the None StrippedString returns
-    for an empty value (marshmallow runs validators on it; len(None) is a 500)."""
-    def check(value):
-        if value is not None and len(value) > n:
-            raise ValidationError(f"Longer than maximum length {n}.")
-    return check
 
 
 # ---- id-or-link fields -------------------------------------------------------------
